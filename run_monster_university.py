@@ -86,8 +86,9 @@ class RunUniversity:
             else:
                 print("Invalid command.")
 
-program = RunUniversity()
-program.start()
-program.log_in()
-program.run()
+    def main(self):
+        program = RunUniversity()
+        program.start()
+        program.log_in()
+        program.run()
 
