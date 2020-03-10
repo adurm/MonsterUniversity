@@ -8,5 +8,5 @@ git clone https://github.com/adurm/MonsterUniversity
 
 and run
 ```python
-run_monster_university.main()
+python3.7 run_monster_university.py 
 ```
