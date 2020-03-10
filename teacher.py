@@ -1,5 +1,5 @@
-from monsters_university.monster import Monster
-from monsters_university.student import Student
+from monster import Monster
+from student import Student
 
 
 class Teacher(Monster):

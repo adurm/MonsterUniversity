@@ -1,10 +1,10 @@
-from monsters_university.monster import Monster
+from monster import Monster
 
 
 class Student(Monster):
 
     def __init__(self, first_name, last_name, student_id):
-        super(Student, self).__init__(first_name=first_name, last_name=last_name)
+        super(Student, self).__init__(first_name, last_name)
         self.student_id = student_id
         self.skills = []
 

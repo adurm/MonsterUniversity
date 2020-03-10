@@ -1,4 +1,4 @@
-from monsters_university.monster import *
+from monster import *
 
 class MonsterWorkshop:
 
