@@ -10,5 +10,15 @@ and run
 ```python
 python3.7 run_monster_university.py 
 ```
-To gain access, you must enter the username 'Celia'(after the monsters inc receptionist).
-The password must be 'ilovemikey' (after the monster she is inlove with)
+To gain access, you must enter the username 
+```
+Celia
+```
+(after the monsters inc receptionist).
+
+
+The password must be 
+```
+ilovemikey
+```
+(after the monster she is inlove with)
