@@ -12,7 +12,7 @@ python3.7 run_monster_university.py
 ```
 To gain access, you must enter the username 
 ```
-Celia
+celia
 ```
 (after the monsters inc receptionist).
 
